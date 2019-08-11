@@ -1,0 +1,14 @@
+C:\fmattaperdomo\UDEMY\net\examples\WebApiAuthorsBooks\WebApiAuthorsBooks\bin\Debug\netcoreapp2.2\WebApiAuthorsBooks.deps.json
+C:\fmattaperdomo\UDEMY\net\examples\WebApiAuthorsBooks\WebApiAuthorsBooks\bin\Debug\netcoreapp2.2\WebApiAuthorsBooks.runtimeconfig.json
+C:\fmattaperdomo\UDEMY\net\examples\WebApiAuthorsBooks\WebApiAuthorsBooks\bin\Debug\netcoreapp2.2\WebApiAuthorsBooks.runtimeconfig.dev.json
+C:\fmattaperdomo\UDEMY\net\examples\WebApiAuthorsBooks\WebApiAuthorsBooks\bin\Debug\netcoreapp2.2\WebApiAuthorsBooks.dll
+C:\fmattaperdomo\UDEMY\net\examples\WebApiAuthorsBooks\WebApiAuthorsBooks\bin\Debug\netcoreapp2.2\WebApiAuthorsBooks.pdb
+C:\fmattaperdomo\UDEMY\net\examples\WebApiAuthorsBooks\WebApiAuthorsBooks\obj\Debug\netcoreapp2.2\WebApiAuthorsBooks.csprojAssemblyReference.cache
+C:\fmattaperdomo\UDEMY\net\examples\WebApiAuthorsBooks\WebApiAuthorsBooks\obj\Debug\netcoreapp2.2\WebApiAuthorsBooks.csproj.CoreCompileInputs.cache
+C:\fmattaperdomo\UDEMY\net\examples\WebApiAuthorsBooks\WebApiAuthorsBooks\obj\Debug\netcoreapp2.2\WebApiAuthorsBooks.RazorAssemblyInfo.cache
+C:\fmattaperdomo\UDEMY\net\examples\WebApiAuthorsBooks\WebApiAuthorsBooks\obj\Debug\netcoreapp2.2\WebApiAuthorsBooks.RazorAssemblyInfo.cs
+C:\fmattaperdomo\UDEMY\net\examples\WebApiAuthorsBooks\WebApiAuthorsBooks\obj\Debug\netcoreapp2.2\WebApiAuthorsBooks.AssemblyInfoInputs.cache
+C:\fmattaperdomo\UDEMY\net\examples\WebApiAuthorsBooks\WebApiAuthorsBooks\obj\Debug\netcoreapp2.2\WebApiAuthorsBooks.AssemblyInfo.cs
+C:\fmattaperdomo\UDEMY\net\examples\WebApiAuthorsBooks\WebApiAuthorsBooks\obj\Debug\netcoreapp2.2\WebApiAuthorsBooks.RazorTargetAssemblyInfo.cache
+C:\fmattaperdomo\UDEMY\net\examples\WebApiAuthorsBooks\WebApiAuthorsBooks\obj\Debug\netcoreapp2.2\WebApiAuthorsBooks.dll
+C:\fmattaperdomo\UDEMY\net\examples\WebApiAuthorsBooks\WebApiAuthorsBooks\obj\Debug\netcoreapp2.2\WebApiAuthorsBooks.pdb
